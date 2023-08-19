@@ -102,7 +102,7 @@ Continuous deployment should be the goal of most companies that are not constrai
 ![image](https://github.com/Mamun104/restapi_ci_and_cd_pipeline_using_postman_and_github/assets/78067017/cc3dc2ae-ec10-46eb-9b2c-312e1cf68c1d)
 
 
-## How to work ci and cd pipeline
+## How does work ci and cd pipeline
 
 Working with a CI/CD pipeline involves several key steps, from code development to deployment. Here's a simplified overview of how you can work with a CI/CD pipeline:
 
