@@ -25,7 +25,7 @@
 
   https://documenter.getpostman.com/view/16548351/2s9Y5SWRC4
 
-## ## How to set up Postman CLI Configuration with GitHub
+## How to set up Postman CLI Configuration with GitHub
 
 ### Step-1:
 
